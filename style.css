@@ -1,0 +1,99 @@
+#profil-picture {
+  width:500;
+  border-radius: 55px
+}
+
+#button {
+  padding: 10px;
+  color: white;
+  background-color: red;
+  font-size: 25px;
+  border-radius: 5px;
+}
+
+.text-more-right {
+  width: 650px;
+
+}
+.image-left{
+  padding-left: 150px;
+
+}
+.text-center {
+  text-align: center
+
+}
+.tableau-film {
+  /*margin: 10, auto;*/
+  width: 700px;
+  margin: 30px auto;
+  padding: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background-color: rgb(240,240,240);
+  border-radius: 4px;
+
+}
+.profile{
+  width: 700px;
+  margin: 30px auto;
+  padding: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background-color: rgb(240,240,240);
+  border-radius: 4px;
+
+}
+.link li {
+    list-style: none;
+    display: inline-block;
+}
+
+.lien{
+  width: 750px;
+  margin: 30px auto;
+  padding: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+  background-color: rgb(240,240,240);
+  border-radius: 4px;
+  text-align: center;
+  padding-left: 0px;
+  font-size: 25px;
+  color: rgb(150,150,150);
+
+}
+
+.padding_left{
+  padding-left: 20px;
+
+}
+a {
+    color: rgb(150,150,150);
+    text-decoration: none;
+}
+p {
+  font-family: 'Open Sans', sans-serif;
+  color: rgb(150,150,150);
+}
+
+table img {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  width: 250
+  /*border-radius: 10%;*/
+}
+
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  color: red;
+}
+
+body{
+  background-color: rgb(230,230,230);
+}
+
+a:hover {
+  color: #C30000;
+  text-decoration: none;
+
+}
